@@ -17,10 +17,10 @@ This is a responsive Web app client for AgroXchange app.
 
 * **Yoonji Oh** 
 * **Peter Schrammen** 
-**Friedrich Striewski** 
-**Luca Di Donato**
-**Nick Schooneman** 
-**Oksana Melnik** 
-**Sanne Stuur**
-**Scott Baxendale** 
-**Viktor Mun** 
+* **Friedrich Striewski** 
+* **Luca Di Donato**
+* **Nick Schooneman** 
+* **Oksana Melnik** 
+* **Sanne Stuur**
+* **Scott Baxendale** 
+* **Viktor Mun** 
