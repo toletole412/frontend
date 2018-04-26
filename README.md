@@ -15,8 +15,8 @@ This is a responsive Web app client for AgroXchange app.
 
 ## Authors
 
-**Yoonji Oh** 
-**Peter Schrammen** 
+* **Yoonji Oh** 
+* **Peter Schrammen** 
 **Friedrich Striewski** 
 **Luca Di Donato**
 **Nick Schooneman** 
